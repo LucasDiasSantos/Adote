@@ -1,6 +1,10 @@
-# Adote
- Projeto Integrado 2021
+#  Adote
  
+## Dados da Turma
+* Dia da semana: **Quinta-Feira
+* Período: **Noturno
+
+## Integrantes
 | RA         | NOME COMPLETO                        | CURSO | TURMA |
 |------------|--------------------------------------|-------|-------|
 | 3020202881 | Thiago Mendonça dos Santos           | TADS  | 1A    |
@@ -11,3 +15,13 @@
 | 3021102020 | Marcela Souza dos Santos             | TADS  | 2A    |
 | 3021100124 | Ricardo Italo Rodrigues dos Santos   | TADS  | 1A    |
 | 3021104427 | Lucas medeiros do vale               | TADS  | 1A    |
+
+
+## Descriçõa do Projeto
+
+
+
+## Emdereço da Aplicação
+
+
+## Outras Observações 
