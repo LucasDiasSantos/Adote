@@ -1,4 +1,4 @@
-#  Adote
+#  BruscaPet
  
 ## Dados da Turma
 * Dia da semana: Quinta-Feira
