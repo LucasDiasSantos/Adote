@@ -1,7 +1,7 @@
 <html>
     <Head>
         <meta>
-        <Title>Adote</Title>
+        <Title>BuscaPet</Title>
     </Head>
     <body>
         <?php 
