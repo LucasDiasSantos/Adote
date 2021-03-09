@@ -1,8 +1,8 @@
 #  Adote
  
 ## Dados da Turma
-* Dia da semana: **Quinta-Feira
-* Período: **Noturno
+* Dia da semana: Quinta-Feira
+* Período: Noturno
 
 ## Integrantes
 | RA         | NOME COMPLETO                        | CURSO | TURMA |
