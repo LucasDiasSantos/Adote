@@ -2,7 +2,7 @@
  
 ## Dados da Turma
 * **Dia da semana:** Quinta-Feira
-* **Período: Noturno**
+* **Período:** Noturno
 
 ## Integrantes
 | RA         | NOME COMPLETO                        | CURSO | TURMA |
