@@ -1,0 +1,123 @@
+body {
+    background-image:url(claro.jpg);
+    background-attachment: fixed;
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-color: #000000;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#titulo {
+    font-family: "Poppins";
+    font-size: 300%;
+    color: #ff9e57;
+    margin-left: 5%;
+   
+}
+#subtitulo { 
+    font-family: sans-serif;
+    color: #030303;
+    margin-left: 11%;
+}
+
+#check{
+    display:inline-block;
+}
+
+fieldset {  
+    border: 0;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+    font-size: 1em;
+    color:#757575;
+    margin-left: 35%;
+    margin-right: 25%;
+    margin-top: 1%;
+    justify-content: center;
+}
+
+input, select, button, {
+    width: 100%;
+    padding: 5px 5px;
+    border-radius: 5px;
+    display: inline-block;
+    border: 0;
+    border-bottom: 2px solid #ff9e57;
+    background-color: transparent;
+    outline: none;
+    min-width: 180px;
+    font-size: 16px;
+}
+
+.campo {
+    margin-bottom: 1em;
+}
+
+main.container {
+    background: #ffffff90;
+    max-width: 380px;
+    min-height: 50px;
+    padding: 3rem;
+    box-shadow: 5px 5px 5px 5px rgba(8, 8, 8, 0.2);
+    border-radius: 8px;
+ }
+
+.campo label {
+    margin-bottom: 0.15em;
+    color: #000000;
+    display: block;
+}
+
+fieldset.grupo .campo {
+    float: left;
+    margin-right: 1em;
+}
+
+.campo input[type="text"], .campo input[type="email"], .campo select, {
+    padding: 0.2em;
+    color: #ff9e57;
+    border: 1px solid  ;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    display: block;
+}
+
+.campo select option {
+    padding-right: 1em;
+}
+
+.campo input:focus, .campo select:focus{
+    background: transparent;
+}
+
+.botao {
+    font-size: 1.2em;
+    background:#ff9e57;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff90;
+    padding: 0.2 0.6em;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0,.5);
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.botao:hover {
+    background: #ffc69c;
+    box-shadow: inset 2px 2px 2px rgb(0,0,0,0,.2);
+    text-shadow: none;
+}
+
+.botao, select{
+    cursor: pointer;
+}

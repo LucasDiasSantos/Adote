@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!-- CSS-->
+    <link rel="stylesheet" type="text/css" href="formulario.css" media="screen">
+
+    <!--Título da pagina-->
+    <title>Cadastro</title>
+</head>
+
+  <body>
+        <!--Cabeçalho com título-->
+        <div>
+            <h1 id="titulo">Cadastro de adoção</h1>
+            <br>
+            <p id="subtitulo">Digite seus dados e complete o cadastro</p>
+            <br>
+            <br>
+        </div>
+          <!--Inicio do formulário-->
+        <form>
+        <main class="container">
+            <fieldset class="grupo">
+               <!--Campo do nome-->
+               <div class="campo">
+                    <label for="nome"></strong>Nome</strong></label>
+                    <input type="text" name="nome" id="nome" required>
+                </div> 
+            
+                 <!--Campo sobrenome-->
+                <div class="campo">
+                    <label for="sobrenome">Sobrenome</label>
+                    <input type="text" name="sobrenome" id="sobrenome" required>
+                </div>
+              <!--Telefone-->
+                <div class="campo">
+                    <label for="telefone">Telefone</label>
+                    <input type="text" name="telefone" id="telefone"required>
+                </div>
+              <!--Telefone-->
+                <div class="campo">
+                    <label for="cpf">CPF</label>
+                    <input type="number" name="cpf" id="cpf" required>
+                </div>
+              <!--CEP-->
+                <div class="campo">
+                    <label for="cep">CEP</label>
+                    <input type="text" name="cep" id="cep" required>
+                </div>
+              <!--Endereço-->
+                <div class="campo">
+                    <label for="endereços">Endereço</label>
+                    <input type="text" name="endereço" id="endereço" required>
+                </div>
+              <!--Numero-->
+                <div class="campo">
+                    <label for="numeros">Número</label>
+                    <input type="text" name="numero" id="numero" required>
+                </div>
+              <!--Bairro-->
+                <div class="campo">
+                    <label fpr="bairro">Bairro</label>
+                    <input type="text" name="bairro" id="bairro"required>
+                </div>
+              <!--Cidade-->
+                <div class="campo">
+                    <label fpr="cidade">Cidade</label>
+                    <input type="text" name="cidade" id="cidade"required>
+                </div>
+              <!--Estado-->
+                <div class="campo">
+                <label for="estados">Estado</label><br>
+                <select id="stado">
+                    <option selected disabled value="">Selecione</option>
+                    <option>ACRE</option>
+                    <option>ALAGOAS</option>
+                    <option>APMAPÁ</option>
+                    <option>AMAZONAS</option>
+                    <option>BAHIA</option>
+                    <option>CEARÁ</option>
+                    <option>DISTRITO FEDERAL</option>
+                    <option>ESPÍRITO SANTO</option>
+                    <option>GOIÁS</option>
+                    <option>MARANHÃO</option>
+                    <option>MATO GROSSO</option>
+                    <option>MATO GROSSO DO SUL</option>
+                    <option>MINAS GERAIS</option>
+                    <option>PARÁ</option>
+                    <option>PARAÍBA</option>
+                    <option>PARANÁ</option>
+                    <option>PERNAMBUCO</option>
+                    <option>PIAUÍ</option>
+                    <option>RIO DE JANEIRO</option>
+                    <option>RIO GRANDE DO NORTE</option>
+                    <option>RIO GRANDE DO SUL</option>
+                    <option>RONDÔNIA</option>
+                    <option>RORAIMA</option>
+                    <option>SANTA CATARINA</option>
+                    <option>SÃO PAULO</option>
+                    <option>SERGIPE</option>
+                    <option>TOCANTINS</option>
+                    </select> 
+                   </div>
+                   <!--Email-->
+                    <div class="campo">
+                       <label for="email">Email</label>
+                       <input type="email" name="email" id="email" required>
+                    </div>
+
+            </fieldset class="grupo">
+                         <!--Senha-->
+                    <div class="campo">
+                       <label for="senha">Senha</label>
+                       <input type="password" name="senha" id="senha" required>
+                    </div>
+
+                  <!--Escolha do animal-->
+                <br>
+                <div class="campo">
+                 <label for="qual animal gostaria">Qual animal você gostaria de adotar?</label>
+                 <br>
+
+                  <label>
+                    <input type="radio" name=gato value="animal" checked>Cachorra-Annie
+                  </label>
+                  <br>
+
+                  <label>
+                    <input type="radio" name=gato value="animal">Gata-Dora
+                  </label>
+                  <br>
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Cachorro-Mauricio
+                 </label>
+                 <br> 
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Cachorro-Billy
+                 </label>
+                 <br>
+
+                 <label>
+                    <input type="radio" name=gato value="animal">Gato-Garfield
+                 </label>
+                 <br>
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Gata-Luna
+                 </label>
+                 <br>
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Cachorro-Marley
+                 </label>
+                 <br>
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Gata-Luloca
+                 </label>
+                 <br>
+
+                 <label>
+                   <input type="radio" name=gato value="animal">Cachorra-Bisteca
+                 </label>
+               </div>
+            
+            <br>
+          
+            </div>
+        <!--Botão-->
+        <button>Enviar</button>
+     
+    </main>
+
+  </form>
+</body>
+</html>
