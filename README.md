@@ -1,4 +1,4 @@
-#  BruscaPet
+#  Buscapet
  
 ## Dados da Turma
 * **Dia da semana:** Quinta-Feira
