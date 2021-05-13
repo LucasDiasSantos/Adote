@@ -17,7 +17,7 @@
 | 3021104427 | Lucas medeiros do vale               | TADS  | 1A    |
 
 
-## Descriçõa do Projeto
+## Descrição do Projeto
 
 
 
