@@ -19,9 +19,10 @@
 
 ## Descrição do Projeto
 
-
+Nosso projeto foi pensado na melhoria das buscas para adoções de pets. Temos muitos sites que fazem pesquisas em várias lojas, restaurantes, agencia de viagens, etc... que com apenas alguns cliques encontra diversas opções daquilo que estava procurando, e pensando nesse tipo de ferramenta, por que não criarmos um site com a mesma metodologia de busca, só que ao invés de buscar por todas essas coisas que já existe no mercado, criaremos um site que busque em diversas instituições de adoção de pets diferentes, assim quem estiver a procura um “Melhor amigo”, também com apenas alguns cliques conseguirá encontrar a sua melhor companhia.
 
 ## Endereço da Aplicação
 
+https://buscapets.000webhostapp.com/
 
 ## Outras Observações 
